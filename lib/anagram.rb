@@ -8,6 +8,7 @@ class Anagram
   end
 
   def match(anagrams)
+    if @word === anagrams
   end
 
 end
